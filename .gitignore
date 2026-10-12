@@ -1,0 +1,4 @@
+/out/
+/result
+*.FCBak
+__pycache__/
